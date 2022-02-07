@@ -3,7 +3,7 @@
 
 - 🔰 I'm currently learning <b> Flutter </b> for developing mobile applications.
 - 🧮 I'm interested in <b>Front-End & Back-End </b>
-- ⏰ I'm stil learning <b> Data Science & Machine Learning </b>
+- ⏰ I'm still learning <b> Data Science & Machine Learning </b>
 - 📫 How to reach me **kubrayuce97@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrayuce97&label=Profile%20views&color=0e75b6&style=flat" alt="kubrayuce97" /> </p>
